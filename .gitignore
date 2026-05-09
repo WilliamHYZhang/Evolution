@@ -1,0 +1,14 @@
+.env
+.pip_nfs_probe/
+
+venv/
+__pycache__/
+*.pyc
+
+logs/
+outputs/
+*.out
+*.err
+
+*.pdf
+paper/
